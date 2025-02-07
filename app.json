@@ -15,7 +15,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.khobbysam.easypay"
     },
     "web": {
       "bundler": "metro",
@@ -36,6 +37,20 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "b844430a-7a18-44e5-9bfe-42a5a97fa236"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/b844430a-7a18-44e5-9bfe-42a5a97fa236"
     }
   }
 }

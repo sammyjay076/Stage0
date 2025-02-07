@@ -1,8 +1,26 @@
 # Welcome to your Expo app 👋
 
+## A link to the GitHub directory
+
+-[Github directory](https://github.com/sammyjay076/Stage0)
+
+## A link to the  HNG backlinks
+
+-[HNG backlinks - ios Developer](http://hng.tech/hire/ios-developers)
+-[HNG backlinks - React Native Developer](http://hng.tech/hire/react-native-developers)
+-[HNG backlinks - Flutter Developer](http://hng.tech/hire/flutter-developers)
+-[HNG backlinks - Kotlin Developer](http://hng.tech/hire/kotlin-developers)
+-[HNG backlinks - Android Developer](http://hng.tech/hire/android-developers)
+
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
-## Get started
+## Cloning this repository
+
+To clone this repository, run:
+
+```bash
+git clone
+```
 
 1. Install dependencies
 

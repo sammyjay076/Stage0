@@ -1,0 +1,9 @@
+*.apk
+*.git/
+*node_modules/
+*ios/
+*android/
+*.expo
+*.idea
+*.yarn
+*.github
