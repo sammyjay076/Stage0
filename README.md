@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to my Expo app 👋
 
 ## A link to the GitHub directory
 
